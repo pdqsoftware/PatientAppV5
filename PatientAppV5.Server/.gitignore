@@ -3,3 +3,5 @@
 /appsettings.Development.json
 *.db
 *.sqlite
+/patients.db
+/patients.db-*

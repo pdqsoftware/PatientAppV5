@@ -48,7 +48,8 @@ export class PatientListComponent {
         ...p,
         age: this.calculateAge(p.dateOfBirth),
         bmi: p.weightKg && p.heightCm ? this.calculateBMI(p.weightKg, p.heightCm) : undefined
-      }));
+      }))
+        .sort((a, b) => a.surname.localeCompare(b.surname));  // Sort alphabetically
     });
   }
 

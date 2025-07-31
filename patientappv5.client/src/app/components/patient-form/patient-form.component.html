@@ -1,0 +1,83 @@
+<h2>Register Patient</h2>
+
+<form (ngSubmit)="onSubmit()" #form="ngForm">
+  <mat-form-field appearance="outline" class="full-width">
+    <mat-label>Name</mat-label>
+    <input matInput type="text" [(ngModel)]="patient.name" name="name" required />
+  </mat-form-field>
+
+  <mat-form-field appearance="outline" class="full-width">
+    <mat-label>Surname</mat-label>
+    <input matInput type="text" [(ngModel)]="patient.surname" name="surname" required />
+  </mat-form-field>
+
+  <mat-form-field appearance="outline" class="full-width">
+    <mat-label>South African ID</mat-label>
+    <input matInput
+           type="text"
+           [(ngModel)]="patient.southAfricanIdNumber"
+           name="idNumber"
+           required
+           [ngClass]="{
+            'invalid-id': patient.southAfricanIdNumber &&
+                 !isValidSouthAfricanId(patient.southAfricanIdNumber)
+           }"
+    />
+  </mat-form-field>
+
+  <mat-form-field appearance="outline" class="full-width">
+    <mat-label>Date of Birth</mat-label>
+    <input matInput type="date" [(ngModel)]="patient.dateOfBirth" name="dob" required />
+  </mat-form-field>
+
+  <mat-form-field appearance="outline" class="full-width">
+    <mat-label>Weight (kg)</mat-label>
+    <input matInput type="number" [(ngModel)]="patient.weightKg" name="weightKg" />
+  </mat-form-field>
+
+  <mat-form-field appearance="outline" class="full-width">
+    <mat-label>Height (cm)</mat-label>
+    <input matInput type="number" [(ngModel)]="patient.heightCm" name="heightCm" />
+  </mat-form-field>
+
+  <mat-form-field appearance="outline" class="full-width">
+    <mat-label>Gender</mat-label>
+    <mat-select [(ngModel)]="patient.gender" name="gender">
+      <mat-option value="Male">Male</mat-option>
+      <mat-option value="Female">Female</mat-option>
+    </mat-select>
+  </mat-form-field>
+
+  <button mat-raised-button color="primary" type="submit">Save Patient</button>
+</form>
+
+
+
+<!--<form (ngSubmit)="onSubmit()" #patientForm="ngForm">
+  <label>Name:</label>
+  <input type="text" [(ngModel)]="patient.name" name="name" required /><br />
+
+  <label>Surname:</label>
+  <input type="text" [(ngModel)]="patient.surname" name="surname" required /><br />
+
+  <label>South African ID Number:</label>
+  <input type="text" [(ngModel)]="patient.southAfricanIdNumber" name="idNumber" required /><br />
+
+  <label>Date of Birth:</label>
+  <input type="date" [(ngModel)]="patient.dateOfBirth" name="dob" required /><br />
+
+  <label>Weight (kg):</label>
+  <input type="number" [(ngModel)]="patient.weightKg" name="weightKg" /><br />
+
+  <label>Height (cm):</label>
+  <input type="number" [(ngModel)]="patient.heightCm" name="heightCm" /><br />
+
+  <label>Gender:</label>
+  <select [(ngModel)]="patient.gender" name="gender">
+    <option value="">Select</option>
+    <option value="Male">Male</option>
+    <option value="Female">Female</option>
+  </select><br /><br />
+
+  <button type="submit">Save Patient</button>
+</form>-->

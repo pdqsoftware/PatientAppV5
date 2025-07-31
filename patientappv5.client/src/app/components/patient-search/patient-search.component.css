@@ -1,0 +1,15 @@
+.search-form {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.form-field {
+  flex: 1 1 300px;
+}
+
+.results-table {
+  overflow-x: auto;
+}

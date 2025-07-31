@@ -1,0 +1,1 @@
+C:\PDP\Books\C-Sharp\Angular\PatientAppV5\patientappv5.client\obj\Debug\patientappv5.client.esproj.CoreCompileInputs.cache

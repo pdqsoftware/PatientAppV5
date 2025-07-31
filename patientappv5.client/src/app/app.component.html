@@ -1,0 +1,23 @@
+<!--<h1>Medical Patient System</h1>-->
+
+<!--<nav>
+  <a routerLink="/form" routerLinkActive="active">Patient Form</a> |
+  <a routerLink="/search" routerLinkActive="active">Search</a> |
+  <a routerLink="/list" routerLinkActive="active">List</a>
+</nav>
+
+<hr />-->
+
+<mat-toolbar color="primary">
+  <span>Medical Patient App</span>
+  <span class="spacer"></span>
+  <a mat-button routerLink="/form">Form</a>
+  <a mat-button routerLink="/search">Search</a>
+  <a mat-button routerLink="/list">List</a>
+</mat-toolbar>
+
+<div style="padding: 20px;">
+  <router-outlet></router-outlet>
+</div>
+
+<!--<app-patient-form></app-patient-form>-->

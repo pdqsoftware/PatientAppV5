@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PDP\\Books\\C-Sharp\\Angular\\PatientAppV5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49EEABBC-CB04-49C2-BAE9-77CAB1488EC7}|patientappv5.client\\patientappv5.client.esproj|c:\\pdp\\books\\c-sharp\\angular\\patientappv5\\patientappv5.client\\src\\app\\components\\patient-form\\patient-form.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49EEABBC-CB04-49C2-BAE9-77CAB1488EC7}|patientappv5.client\\patientappv5.client.esproj|solutionrelative:patientappv5.client\\src\\app\\components\\patient-form\\patient-form.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49EEABBC-CB04-49C2-BAE9-77CAB1488EC7}|patientappv5.client\\patientappv5.client.esproj|c:\\pdp\\books\\c-sharp\\angular\\patientappv5\\patientappv5.client\\src\\app\\components\\patient-form\\patient-form.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{49EEABBC-CB04-49C2-BAE9-77CAB1488EC7}|patientappv5.client\\patientappv5.client.esproj|solutionrelative:patientappv5.client\\src\\app\\components\\patient-form\\patient-form.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49EEABBC-CB04-49C2-BAE9-77CAB1488EC7}|patientappv5.client\\patientappv5.client.esproj|c:\\pdp\\books\\c-sharp\\angular\\patientappv5\\patientappv5.client\\src\\app\\components\\patient-form\\patient-form.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{49EEABBC-CB04-49C2-BAE9-77CAB1488EC7}|patientappv5.client\\patientappv5.client.esproj|solutionrelative:patientappv5.client\\src\\app\\components\\patient-form\\patient-form.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49EEABBC-CB04-49C2-BAE9-77CAB1488EC7}|patientappv5.client\\patientappv5.client.esproj|c:\\pdp\\books\\c-sharp\\angular\\patientappv5\\patientappv5.client\\src\\app\\services\\patient.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{49EEABBC-CB04-49C2-BAE9-77CAB1488EC7}|patientappv5.client\\patientappv5.client.esproj|solutionrelative:patientappv5.client\\src\\app\\services\\patient.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49EEABBC-CB04-49C2-BAE9-77CAB1488EC7}|patientappv5.client\\patientappv5.client.esproj|c:\\pdp\\books\\c-sharp\\angular\\patientappv5\\patientappv5.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{49EEABBC-CB04-49C2-BAE9-77CAB1488EC7}|patientappv5.client\\patientappv5.client.esproj|solutionrelative:patientappv5.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 193,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\PDP\\Books\\C-Sharp\\Angular\\PatientAppV5\\patientappv5.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "patientappv5.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\PDP\\Books\\C-Sharp\\Angular\\PatientAppV5\\patientappv5.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "patientappv5.client\\src\\app\\app.module.ts",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-31T05:45:46.091Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "patient-form.component.css",
+              "DocumentMoniker": "C:\\PDP\\Books\\C-Sharp\\Angular\\PatientAppV5\\patientappv5.client\\src\\app\\components\\patient-form\\patient-form.component.css",
+              "RelativeDocumentMoniker": "patientappv5.client\\src\\app\\components\\patient-form\\patient-form.component.css",
+              "ToolTip": "C:\\PDP\\Books\\C-Sharp\\Angular\\PatientAppV5\\patientappv5.client\\src\\app\\components\\patient-form\\patient-form.component.css",
+              "RelativeToolTip": "patientappv5.client\\src\\app\\components\\patient-form\\patient-form.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-31T10:49:07.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "patient-form.component.html",
+              "DocumentMoniker": "C:\\PDP\\Books\\C-Sharp\\Angular\\PatientAppV5\\patientappv5.client\\src\\app\\components\\patient-form\\patient-form.component.html",
+              "RelativeDocumentMoniker": "patientappv5.client\\src\\app\\components\\patient-form\\patient-form.component.html",
+              "ToolTip": "C:\\PDP\\Books\\C-Sharp\\Angular\\PatientAppV5\\patientappv5.client\\src\\app\\components\\patient-form\\patient-form.component.html",
+              "RelativeToolTip": "patientappv5.client\\src\\app\\components\\patient-form\\patient-form.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-31T10:45:35.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "patient-form.component.ts",
+              "DocumentMoniker": "C:\\PDP\\Books\\C-Sharp\\Angular\\PatientAppV5\\patientappv5.client\\src\\app\\components\\patient-form\\patient-form.component.ts",
+              "RelativeDocumentMoniker": "patientappv5.client\\src\\app\\components\\patient-form\\patient-form.component.ts",
+              "ToolTip": "C:\\PDP\\Books\\C-Sharp\\Angular\\PatientAppV5\\patientappv5.client\\src\\app\\components\\patient-form\\patient-form.component.ts",
+              "RelativeToolTip": "patientappv5.client\\src\\app\\components\\patient-form\\patient-form.component.ts",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAuwDsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-31T10:39:35.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "patient.service.ts",
+              "DocumentMoniker": "C:\\PDP\\Books\\C-Sharp\\Angular\\PatientAppV5\\patientappv5.client\\src\\app\\services\\patient.service.ts",
+              "RelativeDocumentMoniker": "patientappv5.client\\src\\app\\services\\patient.service.ts",
+              "ToolTip": "C:\\PDP\\Books\\C-Sharp\\Angular\\PatientAppV5\\patientappv5.client\\src\\app\\services\\patient.service.ts",
+              "RelativeToolTip": "patientappv5.client\\src\\app\\services\\patient.service.ts",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-31T10:19:57.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

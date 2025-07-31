@@ -42,6 +42,17 @@ build/Release
 node_modules/
 jspm_packages/
 
+# Angular - added 31/07/2025
+/dist
+/.angular/cache
+
+# .NET - added 31/07/2025
+/bin
+/obj
+/appsettings.Development.json
+*.db
+*.sqlite
+
 # Snowpack dependency directory (https://snowpack.dev/)
 web_modules/
 

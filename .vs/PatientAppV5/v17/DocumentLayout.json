@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 193,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,19 +58,6 @@
               "IsPinned": true
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "README.md",
-              "DocumentMoniker": "C:\\PDP\\Books\\C-Sharp\\Angular\\PatientAppV5\\README.md",
-              "RelativeDocumentMoniker": "README.md",
-              "ToolTip": "C:\\PDP\\Books\\C-Sharp\\Angular\\PatientAppV5\\README.md",
-              "RelativeToolTip": "README.md",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-07-31T11:34:39.425Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
@@ -88,6 +75,19 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\PDP\\Books\\C-Sharp\\Angular\\PatientAppV5\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\PDP\\Books\\C-Sharp\\Angular\\PatientAppV5\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvyIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-07-31T11:34:39.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\PDP\\Books\\C-Sharp\\Angular\\PatientAppV5\\patientappv5.client\\.gitignore",
@@ -96,8 +96,7 @@
               "RelativeToolTip": "patientappv5.client\\.gitignore",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-07-31T11:29:07.513Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-31T11:29:07.513Z"
             },
             {
               "$type": "Document",

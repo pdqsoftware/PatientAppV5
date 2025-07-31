@@ -17,15 +17,37 @@ Built with Angular and ASP.NET Core with an SQLite database.
 ### Backend (C#)
 
 bash shell:
+
 cd .  (project root)
+
 dotnet tool install --global dotnet-ef
+
 cd PatientAppV5.Server
+
+dotnet build
+
 dotnet ef migrations add InitialCreate
+
 dotnet ef database update
+
 dotnet run
+
 http://localhost:5082/api/patients  (should get a JSON response from the server)
 
 ### Frontend (Angular)
 
+bash shell:
+cd patientappv5.client
+npm install
+
 The above `dotnet run` command also starts the frontend
 http://localhost:4200
+
+## 🧪 Features
+
+Patient Registration (with SA ID validation)
+Edit Height, Weight, Gender
+Auto-calculates Age & BMI
+Search & Filter Patients
+Output to Table or PDF
+SQLite local DB

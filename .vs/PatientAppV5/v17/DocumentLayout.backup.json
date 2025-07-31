@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\PDP\\Books\\C-Sharp\\Angular\\PatientAppV5\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{10D8003F-4988-4F29-9F83-0D5B79937133}|Solution Items{10D8003F-4988-4F29-9F83-0D5B79937133}|C:\\PDP\\Books\\C-Sharp\\Angular\\PatientAppV5\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{10D8003F-4988-4F29-9F83-0D5B79937133}|Solution Items{10D8003F-4988-4F29-9F83-0D5B79937133}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{49EEABBC-CB04-49C2-BAE9-77CAB1488EC7}|patientappv5.client\\patientappv5.client.esproj|c:\\pdp\\books\\c-sharp\\angular\\patientappv5\\patientappv5.client\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{49EEABBC-CB04-49C2-BAE9-77CAB1488EC7}|patientappv5.client\\patientappv5.client.esproj|solutionrelative:patientappv5.client\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
@@ -42,7 +46,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "app.module.ts",
               "DocumentMoniker": "C:\\PDP\\Books\\C-Sharp\\Angular\\PatientAppV5\\patientappv5.client\\src\\app\\app.module.ts",
               "RelativeDocumentMoniker": "patientappv5.client\\src\\app\\app.module.ts",
@@ -56,14 +60,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\PDP\\Books\\C-Sharp\\Angular\\PatientAppV5\\patientappv5.client\\.gitignore",
-              "RelativeDocumentMoniker": "patientappv5.client\\.gitignore",
-              "ToolTip": "C:\\PDP\\Books\\C-Sharp\\Angular\\PatientAppV5\\patientappv5.client\\.gitignore",
-              "RelativeToolTip": "patientappv5.client\\.gitignore",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-07-31T11:29:07.513Z",
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\PDP\\Books\\C-Sharp\\Angular\\PatientAppV5\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\PDP\\Books\\C-Sharp\\Angular\\PatientAppV5\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-07-31T11:34:39.425Z",
               "EditorCaption": ""
             },
             {
@@ -84,7 +88,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\PDP\\Books\\C-Sharp\\Angular\\PatientAppV5\\patientappv5.client\\.gitignore",
+              "RelativeDocumentMoniker": "patientappv5.client\\.gitignore",
+              "ToolTip": "C:\\PDP\\Books\\C-Sharp\\Angular\\PatientAppV5\\patientappv5.client\\.gitignore",
+              "RelativeToolTip": "patientappv5.client\\.gitignore",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-31T11:29:07.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "patient-form.component.css",
               "DocumentMoniker": "C:\\PDP\\Books\\C-Sharp\\Angular\\PatientAppV5\\patientappv5.client\\src\\app\\components\\patient-form\\patient-form.component.css",
               "RelativeDocumentMoniker": "patientappv5.client\\src\\app\\components\\patient-form\\patient-form.component.css",
@@ -96,7 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "patient-form.component.html",
               "DocumentMoniker": "C:\\PDP\\Books\\C-Sharp\\Angular\\PatientAppV5\\patientappv5.client\\src\\app\\components\\patient-form\\patient-form.component.html",
               "RelativeDocumentMoniker": "patientappv5.client\\src\\app\\components\\patient-form\\patient-form.component.html",
@@ -104,12 +121,11 @@
               "RelativeToolTip": "patientappv5.client\\src\\app\\components\\patient-form\\patient-form.component.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-07-31T10:45:35.058Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-31T10:45:35.058Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "patient-form.component.ts",
               "DocumentMoniker": "C:\\PDP\\Books\\C-Sharp\\Angular\\PatientAppV5\\patientappv5.client\\src\\app\\components\\patient-form\\patient-form.component.ts",
               "RelativeDocumentMoniker": "patientappv5.client\\src\\app\\components\\patient-form\\patient-form.component.ts",
@@ -121,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "patient.service.ts",
               "DocumentMoniker": "C:\\PDP\\Books\\C-Sharp\\Angular\\PatientAppV5\\patientappv5.client\\src\\app\\services\\patient.service.ts",
               "RelativeDocumentMoniker": "patientappv5.client\\src\\app\\services\\patient.service.ts",

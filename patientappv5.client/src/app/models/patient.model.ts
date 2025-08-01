@@ -9,6 +9,9 @@ export interface Patient {
   heightCm?: number;
   gender?: string;
 
+  // Add a new column
+  // homeTown?: string;
+
   // Derived fields (optional for view use)
   age?: number;
   bmi?: number;

@@ -24,5 +24,8 @@ namespace PatientAppV5.Server.Models
         public double? HeightCm { get; set; }
 
         public required string Gender { get; set; }
+
+        // Add a new column
+        // public string? HomeTown { get; set; }
     }
 }

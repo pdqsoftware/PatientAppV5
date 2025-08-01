@@ -7,7 +7,7 @@ import { Patient } from '../models/patient.model';
   providedIn: 'root'
 })
 export class PatientService {
-  private apiUrl = 'http://localhost:5082/api/patients'; // Adjust if your backend runs on another port
+  private apiUrl = 'http://localhost:5082/api/patients'; // Double check the port number after 'dotnet run' executes
 
   constructor(private http: HttpClient) { }
 

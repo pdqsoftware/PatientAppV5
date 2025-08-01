@@ -49,6 +49,7 @@ export class PatientFormComponent {
   isValidSouthAfricanId(id: string): boolean {
     if (!/^\d{13}$/.test(id)) return false;
 
+    // Fudge to allow me to enter data quickly - REMOVE ME
     if (id.startsWith('4455')) return true;
 
     let sum = 0;

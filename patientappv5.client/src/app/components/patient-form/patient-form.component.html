@@ -21,8 +21,7 @@
            [ngClass]="{
             'invalid-id': patient.southAfricanIdNumber &&
                  !isValidSouthAfricanId(patient.southAfricanIdNumber)
-           }"
-    />
+           }" />
   </mat-form-field>
 
   <mat-form-field appearance="outline" class="full-width">
@@ -47,6 +46,12 @@
       <mat-option value="Female">Female</mat-option>
     </mat-select>
   </mat-form-field>
+
+  <!--Add a new column-->
+  <!--<mat-form-field appearance="outline" class="full-width">
+    <mat-label>Home Town</mat-label>
+    <input matInput type="text" [(ngModel)]="patient.homeTown" name="homeTown" />
+  </mat-form-field>-->
 
   <button mat-raised-button color="primary" type="submit">Save Patient</button>
 </form>

@@ -1,0 +1,1 @@
+sqlite3 PatientAppV5.Server\patients.db < insert100.sql

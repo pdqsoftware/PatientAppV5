@@ -5,6 +5,8 @@ import { FormsModule } from '@angular/forms';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+
+// App specific
 import { PatientFormComponent } from './components/patient-form/patient-form.component';
 import { PatientListComponent } from './components/patient-list/patient-list.component';
 import { PatientSearchComponent } from './components/patient-search/patient-search.component';
